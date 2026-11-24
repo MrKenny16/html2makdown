@@ -1,0 +1,22 @@
+# Salida generada por la aplicación
+output/
+
+# Archivos compilados de Java
+*.class
+out/
+bin/
+target/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Documento de instrucciones de la tarea
+tarea_html2markdown_java.pdf
